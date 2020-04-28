@@ -5,13 +5,13 @@ This is a very simple solar system simulation made by Unity3D according to the [
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 ## Table of Contents
 
-- [Project Structure](#Project Structure)
+- [Structure](#Structure)
 - [Install](#install)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Structure
+## Structure
 This is just an introductory project just to let me be familiar with Unity and some basic C#.
 
 
