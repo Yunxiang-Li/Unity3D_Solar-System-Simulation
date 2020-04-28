@@ -24,13 +24,11 @@ The s
 
 ## Usage
 
-You can get familiar with Unity and some basic C#.
+Get familiar with Unity and some basic C#.
 
 ## Maintainers
 
 [@Yunxiang-Li](https://github.com/Yunxiang-Li).
-
-### Any optional sections
 
 ## License
 
