@@ -14,7 +14,7 @@ This is a very simple solar system simulation made by Unity3D according to the [
 
 ## Install
 
-[Unity and Unity hub Download](https://unity3d.com/cn/get-unity/download)<br>
+[Unity and Unity hub Download](https://unity3d.com/get-unity/download)<br>
 I used Unity2018.2.19 for this project<br>
 [archived Unity download ](https://unity3d.com/get-unity/download/archive)
 
