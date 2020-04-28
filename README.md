@@ -1,6 +1,6 @@
 # Unity_Simple-Solar-System-Simulation
 
-This is a very simple solar system simulation made by Unity3D according to the [Michigan State University](https://msu.edu/)'s coursera course [Introduction to Game Development].(https://www-cloudfront-alias.coursera.org/learn/game-development/home/welcome)
+This is a very simple solar system simulation made by Unity3D according to the [Michigan State University](https://msu.edu/)'s coursera course [Introduction to Game Development](https://www-cloudfront-alias.coursera.org/learn/game-development/home/welcome).
 
 [CS61B 2018 spring](https://sp18.datastructur.es/)
 
