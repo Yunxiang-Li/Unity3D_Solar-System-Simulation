@@ -28,8 +28,8 @@ The s
 ### 1.Launch this project in your own unity and computer
 
 1.Download this repo,open(or zip and open) the **Unity_Simple-Solar-System-Simulation** folder.<br>
-2.Open the **Assets** folder, then open the **Scenes** folder.
-3.Finally double click **Solar System.unity** to open this project in unity.
+2.Open the **Assets** folder, then open the **Scenes** folder.<br>
+3.Finally double click **Solar System.unity** to open this project in unity.<br>
 4.You may need a little bit more time to wait for downloading some relative resource.
 
 ## Maintainers
