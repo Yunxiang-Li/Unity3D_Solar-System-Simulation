@@ -2,20 +2,18 @@
 
 This is a very simple solar system simulation made by Unity3D according to the [Michigan State University](https://msu.edu/)'s coursera course [Introduction to Game Development](https://www-cloudfront-alias.coursera.org/learn/game-development/home/welcome).
 
-[CS61B 2018 spring](https://sp18.datastructur.es/)
-
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 ## Table of Contents
 
-- [Background](#background)
+- [Project Structure](#Project Structure)
 - [Install](#install)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Background
+## Project Structure
+This is just an introductory project just to let me be familiar with Unity and some basic C#.
 
-### Any optional sections
 
 ## Install
 
