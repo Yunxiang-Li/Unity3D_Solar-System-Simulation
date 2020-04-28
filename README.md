@@ -8,7 +8,7 @@ This is a very simple solar system simulation made by Unity3D according to the [
 - [Install](#install)
 - [Structure](#Structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Maintainers](#Maintainers)
 - [License](#license)
 
 
@@ -19,27 +19,19 @@ I used Unity2018.2.19 for this project<br>
 [archived Unity download ](https://unity3d.com/get-unity/download/archive)
 
 ## Structure
-This is just an introductory project which let me get familiar with Unity and some basic C#.
-The
+
+The s
 
 ## Usage
 
-```
-```
+You can get familiar with Unity and some basic C#.
 
-### Any optional sections
+## Maintainers
 
-
-## Contributing
-
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+[@Yunxiang-Li](https://github.com/Yunxiang-Li).
 
 ### Any optional sections
 
 ## License
 
-[MIT © Richard McRichface.](../LICENSE)
+[MIT license](https://github.com/Yunxiang-Li/CS61B/blob/master/LICENSE)
