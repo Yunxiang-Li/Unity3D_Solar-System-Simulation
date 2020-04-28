@@ -14,7 +14,7 @@ This is a very simple solar system simulation made by Unity3D according to the [
 
 ## Install
 
-I use Unity2018.2.19 and Rider IDE for this project<br>
+I use Unity2018.2.19 and JetBrain's Rider IDE for this project<br>
 [Unity and Unity hub download](https://unity3d.com/get-unity/download)<br>
 [archived Unity download ](https://unity3d.com/get-unity/download/archive)<br>
 [Jetbrains Rider download](https://www.jetbrains.com/rider/download/#section=windows)
