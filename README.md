@@ -21,6 +21,8 @@ This is a very simple solar system simulation made by Unity3D according to the [
 
 ![Solar System](https://github.com/Yunxiang-Li/Unity_Simple-Solar-System-Simulation/blob/master/Screeshots%20and%20Gifs/solar%20system.gif)
 
+![Solar System](https://github.com/Yunxiang-Li/Unity_Simple-Solar-System-Simulation/blob/master/Screeshots%20and%20Gifs/syloar%20system.PNG)
+
 ## Install
 
 I use Unity2018.2.19 and JetBrain's Rider IDE for this project<br>
