@@ -53,8 +53,9 @@ Under **Assets** folder, there are altogether 6 subfolders:
 3.Scences folder: contains the main scence(Solar System) of the project.
 
 4.Scripts folder: contains all three C# scripts. RotateAround script for letting each planet
-to rotate(both rotation and revolution),LookAtTarget script for setting camera to look at a 
-target object, and ChangeLookAtTarget script for setting camera to look at another target object.
+to rotate(both rotation and revolution),FollowAtTarget script for setting camera to follow a 
+target object through aiming at its positive z axis and ChangeLookAtTarget script for setting
+camera to look at another target object when we click the left mouse button upon that target object.
 
 5.Sounds folder: contains all sounds files of each planet.
 
