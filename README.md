@@ -27,8 +27,9 @@ Under **Assets** folder, there are altogether 6 subfolders:
 1.Materials folder: contains all materials need for each planet and the universe.
 2.Plugins folder: Plugins/Editor/JetBrains, creates for JetBrains Rider IDE.
 3.Scences folder: contains the main scence(Solar System) of the project.
-4.Scripts folder: contains all three C# scripts. RotateAround script for letting each planet to rotate(both Rotation and revolution),
-LookAtTarget script for setting camera to look at a target object, and ChangeLookAtTarget script for setting camera to look at another target object.
+4.Scripts folder: contains all three C# scripts. RotateAround script for letting each planet
+to rotate(both Rotation and revolution),LookAtTarget script for setting camera to look at a 
+target object, and ChangeLookAtTarget script for setting camera to look at another target object.
 5.Sounds folder: contains all sounds files of each planet.
 6.Textures folder: contains all textures for each planet and the universe.
 ```
