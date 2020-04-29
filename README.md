@@ -41,7 +41,7 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project<br>
 
 ## Structure
 
-The whole project contains two main folders, **Assets** folder and **Package** folder.<br>
+The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.<br>
 Under **Assets** folder, there are altogether 6 subfolders:
 ```
 1.Materials folder: contains all materials need for each planet and the universe.
