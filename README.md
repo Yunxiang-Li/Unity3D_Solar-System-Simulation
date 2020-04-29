@@ -19,7 +19,7 @@ This is a very simple solar system simulation made by Unity3D according to the [
 
 ## Exhibition
 
-![solar system.gif]
+![Farmers Market Finder Demo](Unity_Simple-Solar-System-Simulation/Screeshots and Gifs/solar system.gif)
 
 ## Install
 
