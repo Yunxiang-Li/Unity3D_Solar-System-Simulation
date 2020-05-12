@@ -41,6 +41,8 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 
 4.You may need a little bit more time to wait for downloading some additional resource.
 
+**You can use mouse to left click on each planet, then the view will be changed as the clicked planet is always in the center of the view. You can change view both by left clicking each planet directly or just clicking each on the map in the left bottom corner.**
+
 ## Structure
 
 The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.<br>
