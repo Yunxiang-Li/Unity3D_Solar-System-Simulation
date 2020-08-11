@@ -46,23 +46,23 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 ## Structure
 
 The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.<br>
-Under **Assets** folder, there are altogether 6 subfolders:
-```
-1.Materials folder: contains all materials need for each planet and the universe.
+Under **Assets** folder, there are altogether **6** subfolders:
 
-2.Plugins folder: Plugins/Editor/JetBrains, creates for JetBrains Rider IDE.
+1. Materials folder: contains all materials need for each planet and the universe.
 
-3.Scences folder: contains the main scence(Solar System) of the project.
+2. Plugins folder: Plugins/Editor/JetBrains, creates for JetBrains Rider IDE.
 
-4.Scripts folder: contains all three C# scripts. RotateAround script for letting each planet
+3. Scences folder: contains the main scence(Solar System) of the project.
+
+4. Scripts folder: contains all **3** C# scripts. RotateAround script for letting each planet
 to rotate(both rotation and revolution),FollowAtTarget script for setting camera to follow a 
 target object through aiming at its positive z axis and ChangeLookAtTarget script for setting
 camera to look at another target object when we click the left mouse button upon that target object.
 
-5.Sounds folder: contains all sounds files of each planet.
+5. Sounds folder: contains all sounds files of each planet.
 
-6.Textures folder: contains all textures for each planet and the universe.
-```
+6. Textures folder: contains all textures for each planet and the universe.
+
 
 ## Maintainers
 
