@@ -33,15 +33,15 @@ I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 
 
 ## Usage
 
-1.Download this repo,open(or zip and open) the **Unity_Simple-Solar-System-Simulation** folder.
+1. Download this repo, open(or zip and open) the **Unity_Simple-Solar-System-Simulation** folder.
 
-2.Open the **Assets** folder, then open the **Scenes** folder.
+2. Open the **Unity Hub**, from the Home Screen, click **Projects** to view the **Projects** tab.
 
-3.Finally double click **Solar System.unity** to open this project in unity.
+3. To open an existing Unity Project stored on your computer, click the Project name in the **Projects** tab, or click **Open** to browse your computer for the Project folder.
 
-4.You may need a little bit more time to wait for downloading some additional resource.
+4. Note that a Unity Project is a collection of files and directories, rather than just one specific Unity Project file. To open a Project, you must select the main Project folder, rather than a specific file).
 
-**You can use mouse to left click on each planet, then the view will be changed as the clicked planet is always in the center of the view. You can change view both by left clicking each planet directly or just clicking each on the map in the left bottom corner.**
+5. For this game, just select the **Unity_Simple-Solar-System-Simulation** folder and open this project.
 
 ## Structure
 
