@@ -1,4 +1,4 @@
-# Unity3D_Simple-Solar-System-Simulation
+# Unity3D_Solar-System-Simulation
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
